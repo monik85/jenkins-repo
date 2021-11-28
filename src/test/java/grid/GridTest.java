@@ -71,7 +71,7 @@ public class GridTest {
 		driver.quit();
 
 	}
-
+  @Test
 	public void test2() throws MalformedURLException {
 
 		System.setProperty("webdriver.chrome.driver", "chromedriver");
